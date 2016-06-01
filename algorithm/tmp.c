@@ -7,10 +7,10 @@ struct TreeNode {
     struct TreeNode *right;
 };
 
-/* submit area start*/
+/* submit area start */
 
 
-/* submit area end*/
+/* submit area end */
 
 int main() {
 
